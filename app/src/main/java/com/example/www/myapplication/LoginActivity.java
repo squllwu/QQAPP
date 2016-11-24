@@ -15,9 +15,11 @@ public class LoginActivity extends AppCompatActivity {
     2楼瓜子
     3楼卖瓜
     4楼不明情况的观众
+    //5楼已经懵逼
     ----------------------------蒋胜达  2014011539
      */
     //申玥添加了一条注释
+
     private EditText EtQQ;
     private EditText EtPwd;
     private Button Btnlogin;
