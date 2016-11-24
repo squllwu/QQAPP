@@ -19,6 +19,7 @@ public class LoginActivity extends AppCompatActivity {
      */
     //申玥添加了一条注释
     //一条注释朱鑫
+    //杨明鑫
     private EditText EtQQ;
     private EditText EtPwd;
     private Button Btnlogin;
