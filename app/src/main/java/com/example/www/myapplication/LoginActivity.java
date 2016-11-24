@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
-
+    //白悦辉：可爱的我出现了
     /*
     火钳刘明
     前排前排前排前排前排前排前排前排前排前排前排前排前排前排前排
