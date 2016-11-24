@@ -9,6 +9,15 @@ import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
 
+    /*
+    火钳刘明
+    前排前排前排前排前排前排前排前排前排前排前排前排前排前排前排
+    2楼瓜子
+    3楼卖瓜
+    4楼不明情况的观众
+    ----------------------------蒋胜达  2014011539
+     */
+
     private EditText EtQQ;
     private EditText EtPwd;
     private Button Btnlogin;
@@ -29,6 +38,7 @@ public class LoginActivity extends AppCompatActivity {
                 else {
                     Toast.makeText(LoginActivity.this,"登录失败！",Toast.LENGTH_SHORT).show();
                 }
+                //白浩然提交了一行注释
             }
         });
     }
