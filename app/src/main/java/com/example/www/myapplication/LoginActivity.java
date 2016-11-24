@@ -8,16 +8,18 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
-
+    //白悦辉：可爱的我出现了
     /*
     火钳刘明
     前排前排前排前排前排前排前排前排前排前排前排前排前排前排前排
     2楼瓜子
     3楼卖瓜
     4楼不明情况的观众
+    //5楼已经懵逼
     ----------------------------蒋胜达  2014011539
      */
     //申玥添加了一条注释
+
     private EditText EtQQ;
     private EditText EtPwd;
     private Button Btnlogin;
