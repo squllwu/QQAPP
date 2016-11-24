@@ -14,7 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/touxiang"/>
+        android:src="@drawable/qq"/>
     <EditText
         android:id="@+id/EtQQ"
         android:layout_width="match_parent"
