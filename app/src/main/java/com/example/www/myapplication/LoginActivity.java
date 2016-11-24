@@ -17,11 +17,9 @@ public class LoginActivity extends AppCompatActivity {
     4楼不明情况的观众
     ----------------------------蒋胜达  2014011539
      */
-
     /*
-    前排出售汽水小板凳
-    ----李越2014011596
-    */
+   报错403可还行
+     */
 
     private EditText EtQQ;
     private EditText EtPwd;
