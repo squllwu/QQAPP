@@ -17,10 +17,7 @@ public class LoginActivity extends AppCompatActivity {
     4楼不明情况的观众
     ----------------------------蒋胜达  2014011539
      */
-    /*
-   报错403可还行
-     */
-
+    //申玥添加了一条注释
     private EditText EtQQ;
     private EditText EtPwd;
     private Button Btnlogin;
