@@ -9,6 +9,13 @@ import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
 
+    /*
+    火钳刘明
+    前排前排前排前排前排前排前排前排前排前排前排前排前排前排前排
+    2楼瓜子
+    ----------------------------蒋胜达  2014011539
+     */
+
     private EditText EtQQ;
     private EditText EtPwd;
     private Button Btnlogin;
